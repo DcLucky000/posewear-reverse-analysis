@@ -1,0 +1,9 @@
+# 本仓只放结论文档，不引入站点素材或密钥
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+secrets/
+assets-raw/
+dist/
